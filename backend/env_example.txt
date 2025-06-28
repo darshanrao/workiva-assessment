@@ -1,0 +1,11 @@
+# MongoDB Atlas Configuration
+# Required: Your MongoDB Atlas connection string
+# Format: mongodb+srv://<username>:<password>@<cluster-url>/<database>?retryWrites=true&w=majority
+MONGODB_URL=mongodb+srv://your-username:your-password@cluster0.xxxxx.mongodb.net/?retryWrites=true&w=majority
+
+# Optional: Database name (defaults to 'workiva_assessment')
+DATABASE_NAME=workiva_assessment
+
+# Required: Google Gemini AI API Key
+# Get this from: https://makersuite.google.com/app/apikey
+GEMINI_API_KEY=your-gemini-api-key-here 
