@@ -50,7 +50,7 @@ This project demonstrates a complete AI-powered chat system with the following c
 
 1. **Clone the repository**
 ```bash
-git clone <repository-url>
+git clone "https://github.com/darshanrao/workiva-assessment.git"
 cd workiva-assessment
 ```
 
